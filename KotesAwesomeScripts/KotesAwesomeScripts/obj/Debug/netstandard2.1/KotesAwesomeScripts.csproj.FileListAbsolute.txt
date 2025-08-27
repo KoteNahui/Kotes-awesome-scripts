@@ -1,0 +1,17 @@
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.csproj.AssemblyReference.cache
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.AssemblyInfoInputs.cache
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.AssemblyInfo.cs
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.csproj.CoreCompileInputs.cache
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\KotesAwesomeScripts.deps.json
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\KotesAwesomeScripts.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\KotesAwesomeScripts.pdb
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwe.CC61714C.Up2Date
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.dll
+C:\Users\gfov2\Documents\Visual Studio 2022\projects\KotesAwesomeScripts\KotesAwesomeScripts\obj\Debug\netstandard2.1\KotesAwesomeScripts.pdb
