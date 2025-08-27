@@ -1,2 +1,6 @@
 # Kotes-awesome-scripts
-Quality of life scripts for RudeLE
+Bunch of cool and probably useful scripts for rude.
+
+For script list and what they do check out [Wiki](https://github.com/KoteNahui/Kotes-awesome-scripts/wiki)
+
+
